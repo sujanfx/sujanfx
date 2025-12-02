@@ -1,52 +1,101 @@
-# Hey there!
+<!-- Header -->
+<h1 align="center">👋 Hey, I'm Sujan</h1>
 
-My name is Sai Sujan Sridhara, and I’m an AI developer specializing in secure, intelligent systems that go beyond the hype. I’m passionate about building scalable architectures with agentive AI, verifiable trust models, and automation frameworks that genuinely improve how organizations operate.
+<p align="center">
+  <b>Software Engineer — Backend | Automation | Applied Cybersecurity</b><br/>
+  Currently: <b>SDE Intern @ MakeMyTrip (GO-MMT)</b>
+</p>
 
-My technical work includes secure blockchain-based verification, agent-based architectures, and robust secure development practices — all with a focus on business-aligned outcomes instead of buzzwords. I love working on systems that make decision-making faster, smarter, and grounded in reality.
+<p align="center">
+  <a href="https://linkedin.com/in/sujansridhara">LinkedIn</a> •
+  <a href="mailto:sridharasujan@gmail.com">Email</a> •
+  <a href="https://substack.com/@sujanfx">Substack</a> •
+  <a href="https://sujansridhara.com">Portfolio</a>
+</p>
 
-Right now, I’m actively exploring new frameworks that combine advanced security engineering with trustworthy AI automation to help leaders move from “theory” to measurable results.
+---
 
-In my free time, you’ll probably find me throwing punches in the boxing gym, hiking new trails, studying investing strategies, or catching a wave out on the surf.
+### 🧠 About Me  
 
+I'm a backend-focused software engineer who builds **automation tools, agent-style systems, and practical AI integrations** — not just prototypes or notebooks.
 
+I like working at the intersection of:
 
-## Let's Connect!
+- Backend engineering  
+- Automation & agent workflows  
+- Applied cybersecurity thinking  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujansridhara/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sridharasujan@gmail.com)
-[![Substack](https://img.shields.io/badge/-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@sujanfx)
+I care about reliability over hype: **code should run, scale, and survive failure.**
 
+---
 
+### 🚀 What I’m Working On
 
-## Tech Stack
+- Automation-first backend services using **FastAPI / Node.js**
+- Agent workflows (Telegram bots, n8n pipelines, LLM tooling)
+- Strengthening fundamentals in IAM abuse paths, logging, and secure systems design
 
-![PYTHON](https://img.shields.io/badge/-PYTHON-3776AB?style=flat-square&logo=python&logoColor=white)
-![JAVA](https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java)
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![DOCKER](https://img.shields.io/badge/-DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FLASK](https://img.shields.io/badge/-FLASK-000000?style=flat-square&logo=flask)
-![REACT](https://img.shields.io/badge/-REACT-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TAILWINDCSS](https://img.shields.io/badge/-TAILWINDCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![NODE.JS](https://img.shields.io/badge/-NODE.JS-339933?style=flat-square&logo=node.js&logoColor=white)
-![N8N](https://img.shields.io/badge/-N8N-FF5914?style=flat-square&logo=n8n)
-![PYTORCH](https://img.shields.io/badge/-PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TENSORFLOW](https://img.shields.io/badge/-TENSORFLOW-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![KERAS](https://img.shields.io/badge/-KERAS-D00000?style=flat-square&logo=keras&logoColor=white)
-![SCIKIT-LEARN](https://img.shields.io/badge/-SCIKIT--LEARN-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBOOST](https://img.shields.io/badge/-XGBOOST-FF6600?style=flat-square&logo=xgboost&logoColor=white)
-![SEABORN](https://img.shields.io/badge/-SEABORN-3776AB?style=flat-square&logo=python&logoColor=white)
-![MATPLOTLIB](https://img.shields.io/badge/-MATPLOTLIB-11557C?style=flat-square&logo=python&logoColor=white)
-![ANACONDA](https://img.shields.io/badge/-ANACONDA-44A833?style=flat-square&logo=anaconda&logoColor=white)
-![NUMPY](https://img.shields.io/badge/-NUMPY-013243?style=flat-square&logo=numpy&logoColor=white)
-![PANDAS](https://img.shields.io/badge/-PANDAS-150458?style=flat-square&logo=pandas&logoColor=white)
-![GIT](https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white)
-![FIREBASE](https://img.shields.io/badge/-FIREBASE-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![YFINANCE](https://img.shields.io/badge/-YFINANCE-003545?style=flat-square&logo=python&logoColor=white)
-![MONGODB](https://img.shields.io/badge/-MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SUPABASE](https://img.shields.io/badge/-SUPABASE-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![VERCEL](https://img.shields.io/badge/-VERCEL-000000?style=flat-square&logo=vercel&logoColor=white)
-![TABLEAU](https://img.shields.io/badge/-TABLEAU-E97627?style=flat-square&logo=tableau&logoColor=white)
-![POWER BI](https://img.shields.io/badge/-POWER%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+---
 
+### 📌 Featured Projects
 
+> These represent the direction I’m building toward. Older or experimental repos are archived.
+
+| Project | Area | Summary |
+|--------|------|---------|
+| **AutoPilot-HR** | Backend + Automation | Hiring workflow automation: resume parsing → filtering → notifications → scheduling — structured as a real service. |
+| **Value-Prop Agent (XT)** | Agent Systems | Scrapes investor relations content, summarizes, and answers via Telegram bot with usage logging and context memory. |
+| **Plant Disease Detection (Refined)** | AI + System Design | ML pipeline with UI, dataset cleanup, explainability — not just a Jupyter file. |
+| **TB-Prediction Toolkit** | Applied ML | Reproducible medical ML project with pinned dependencies, explainability (LIME), and responsible handling. |
+
+---
+
+### 🛠 Tech Stack
+
+**Backend & Core**
+
+- Python  
+- Java  
+- TypeScript / JavaScript  
+- Node.js  
+- FastAPI  
+- Flask  
+
+**Automation & AI**
+
+- n8n  
+- LangChain / LLM tooling  
+- TensorFlow  
+- PyTorch  
+- scikit-learn  
+- MongoDB  
+- PostgreSQL  
+
+**Tools & Infra**
+
+- Docker  
+- Git & GitHub  
+- AWS basics (IAM, EC2, S3)  
+- Vercel  
+- Linux  
+
+---
+
+### 🎯 How I Work
+
+- Code should run with **one command** (or `docker-compose`).  
+- Prefer simple, auditable designs over clever, fragile ones.  
+- If I repeat a task twice — I **automate** it.  
+- Logs > silent failures.  
+- Security and failure modes are part of the solution, not an afterthought.
+
+---
+
+### 🤝 Connect
+
+If you're building in **backend systems, automation, agent tools, or applied cybersecurity**, I’m always open to connect.
+
+📩 `sridharasujan@gmail.com`  
+🔗 LinkedIn: https://linkedin.com/in/sujansridhara  
+
+---
