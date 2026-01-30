@@ -57,28 +57,10 @@ I care about reliability over hype: **code should run, scale, and survive failur
 - Python  
 - Java  
 - TypeScript / JavaScript  
-- Node.js  
+- GoLang 
 - FastAPI  
-- Flask  
-
-**Automation & AI**
-
-- n8n  
-- LangChain / LLM tooling  
-- TensorFlow  
-- PyTorch  
-- scikit-learn  
-- MongoDB  
-- PostgreSQL  
-
-**Tools & Infra**
-
-- Docker  
-- Git & GitHub  
-- AWS basics (IAM, EC2, S3)  
-- Vercel  
-- Linux  
-
+- Flask
+  
 ---
 
 ### 🎯 How I Work
