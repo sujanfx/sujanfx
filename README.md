@@ -2,11 +2,6 @@
 <h1 align="center">👋 Hey, I'm Sujan</h1>
 
 <p align="center">
-  <b>Software Engineer — Backend | Automation | Applied Cybersecurity</b><br/>
-  Currently: <b>SDE Intern @ MakeMyTrip (GO-MMT)</b>
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/sujansridhara">LinkedIn</a> •
   <a href="mailto:sridharasujan@gmail.com">Email</a> •
   <a href="https://substack.com/@sujanfx">Substack</a> •
@@ -70,6 +65,18 @@ I care about reliability over hype: **code should run, scale, and survive failur
 - If I repeat a task twice — I **automate** it.  
 - Logs > silent failures.  
 - Security and failure modes are part of the solution, not an afterthought.
+
+---
+
+## 🏆 GitHub Stats & Activity
+<p align="center">
+  <!-- Streak / stats -->
+  <img src="https://streak-stats.demolab.com?user=sujanfx&theme=tokyonight" alt="GitHub Streak" />
+  <br/><br/>
+  <!-- Contribution activity graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujanfx&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+```
 
 ---
 
