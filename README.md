@@ -76,7 +76,6 @@ I care about reliability over hype: **code should run, scale, and survive failur
   <!-- Contribution activity graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujanfx&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
-```
 
 ---
 
