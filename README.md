@@ -1,89 +1,36 @@
-<!-- Header -->
-<h1 align="center">👋 Hey, I'm Sujan</h1>
+<h1 align="center">Sujan Sridhara</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sujansridhara">LinkedIn</a> •
-  <a href="mailto:sridharasujan@gmail.com">Email</a> •
-  <a href="https://substack.com/@sujanfx">Substack</a> •
-  <a href="https://sujansridhara.com">Portfolio</a>
+  Engineer. Building production AI systems.
+</p>
+
+<p align="center">
+  <a href="https://sujansridhara.com">sujansridhara.com</a> ·
+  <a href="https://linkedin.com/in/sujansridhara">linkedin</a> ·
+  <a href="mailto:sridharasujan@gmail.com">sridharasujan@gmail.com</a>
 </p>
 
 ---
 
-### 🧠 About Me  
+### What I do
 
-I'm a backend-focused software engineer who builds **automation tools, agent-style systems, and practical AI integrations** — not just prototypes or notebooks.
+I build LLM systems that run in production. Real users, real money, real uptime. Most of my work lives in the orchestration layer: agents, tool use, evals, and the infrastructure that keeps things reliable when the model misbehaves.
 
-I like working at the intersection of:
+Currently deep in conversational AI. Latency, recovery, observability, and everything that happens after the demo works.
 
-- Backend engineering  
-- Automation & agent workflows  
-- Applied cybersecurity thinking  
+### How I think
 
-I care about reliability over hype: **code should run, scale, and survive failure.**
+Reliability is a feature. Agents that fail silently are dangerous.
+Evals before vibes. If you can't measure it, you're guessing.
+Latency is UX. Sub-second or it doesn't ship.
+The interesting problems are in the scaffolding around the model.
 
----
+### Stack
 
-### 🚀 What I’m Working On
-
-- Automation-first backend services using **FastAPI / Node.js**
-- Agent workflows (Telegram bots, n8n pipelines, LLM tooling)
-- Strengthening fundamentals in IAM abuse paths, logging, and secure systems design
+`Go` `Python` `TypeScript` `Postgres` `Redis` `LLM APIs` `realtime voice` `event-driven backends`
 
 ---
 
-### 📌 Featured Projects
-
-> These represent the direction I’m building toward. Older or experimental repos are archived.
-
-| Project | Area | Summary |
-|--------|------|---------|
-| **AutoPilot-HR** | Backend + Automation | Hiring workflow automation: resume parsing → filtering → notifications → scheduling — structured as a real service. |
-| **Value-Prop Agent (XT)** | Agent Systems | Scrapes investor relations content, summarizes, and answers via Telegram bot with usage logging and context memory. |
-| **Plant Disease Detection (Refined)** | AI + System Design | ML pipeline with UI, dataset cleanup, explainability — not just a Jupyter file. |
-| **TB-Prediction Toolkit** | Applied ML | Reproducible medical ML project with pinned dependencies, explainability (LIME), and responsible handling. |
-
----
-
-### 🛠 Tech Stack
-
-**Backend & Core**
-
-- Python  
-- Java  
-- TypeScript / JavaScript  
-- GoLang 
-- FastAPI  
-- Flask
-  
----
-
-### 🎯 How I Work
-
-- Code should run with **one command** (or `docker-compose`).  
-- Prefer simple, auditable designs over clever, fragile ones.  
-- If I repeat a task twice — I **automate** it.  
-- Logs > silent failures.  
-- Security and failure modes are part of the solution, not an afterthought.
-
----
-
-## 🏆 GitHub Stats & Activity
 <p align="center">
-  <!-- Streak / stats -->
-  <img src="https://streak-stats.demolab.com?user=sujanfx&theme=tokyonight" alt="GitHub Streak" />
-  <br/><br/>
-  <!-- Contribution activity graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujanfx&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sujanfx&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true" alt="" />
 </p>
-
----
-
-### 🤝 Connect
-
-If you're building in **backend systems, automation, agent tools, or applied cybersecurity**, I’m always open to connect.
-
-📩 `sridharasujan@gmail.com`  
-🔗 LinkedIn: https://linkedin.com/in/sujansridhara  
-
----
